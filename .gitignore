@@ -27,6 +27,7 @@
 
 .idea
 /config/database.yml
+/config/credentials.yml.enc
 /config/secrets.yml
 .env/public/packs
 # Ignore master key for decrypting credentials and more.
